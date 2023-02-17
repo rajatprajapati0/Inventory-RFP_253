@@ -1,0 +1,23 @@
+{
+  "Rice": [
+    {
+      "BrandName": "basmati",
+      "Wight": 25,
+      "price": 65
+    }
+  ],
+  "Wheats": [
+    {
+      "BrandName": "ashirvad",
+      "Wight": 2,
+      "price": 35
+    }
+  ],
+  "Pulses": [
+    {
+      "BrandName": "moong(gangval)",
+      "Wight": 35,
+      "price": 75
+    }
+  ]
+}
